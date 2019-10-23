@@ -44,7 +44,7 @@ timeout==0.1.2
 uritemplate==3.0.0
 uritemplate.py==3.0.2
 urllib3==1.7.1
-Werkzeug==0.15.3
+Werkzeug==0.16.0
 WTForms==2.0.2
 python-jose==3.0.1
 jwcrypto==0.6.0
