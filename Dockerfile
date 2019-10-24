@@ -21,7 +21,7 @@ RUN echo "Installing Basic Pkgs" && \
     pwgen wget curl git-core build-essential scons devscripts lintian dh-make \
     libpcre3 libpcre3-dev libboost-dev libboost-date-time-dev libboost-filesystem-dev \
     libboost-program-options-dev libboost-system-dev libboost-thread-dev \
-    libpcap-dev libreadline-dev libssl-dev rng-tools haveged \
+    libpcap-dev libreadline-dev libssl-dev rng-tools haveged rsync\
     openssh-server supervisor unzip vim software-properties-common || rm -rf /var/lib/apt/lists/*
 
 ############################################################
