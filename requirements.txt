@@ -6,7 +6,7 @@ colorama==0.2.5
 decorator==3.4.0
 deploycron==0.0.1
 dotenv==0.0.5
-ecdsa==0.13
+ecdsa==0.13.3
 Flask==0.10.1
 Flask-Cors==3.0.2
 Flask-Login==0.2.11
